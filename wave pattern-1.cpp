@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
   int n;
-  cout<<"hello give the length for the wave"<<endl;
+  cout<<"hello give the width for the wave"<<endl;
   cin>>n;
  
 for (int i = 1;; i++)
